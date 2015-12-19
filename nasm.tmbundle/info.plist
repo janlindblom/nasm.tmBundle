@@ -2,9 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>contactEmailRot13</key>
+  <string>wnayvaqoybz@snfgznvy.sz</string>
+  <key>contactName</key>
+  <string>Jan Lindblom</string>
   <key>name</key>
-  <string>nasm</string>
+  <string>NASM x86_64 Assembly</string>
   <key>uuid</key>
-  <string>29fa8a60-20f1-4d96-866d-04cfd323c822</string>
+  <string>89e76ca1-b252-492e-856a-1e7045827761</string>
 </dict>
 </plist>

@@ -1,4 +1,3 @@
-nasm.tmBundle
-=============
+# NASM x86_64 TextMate Syntax Bundle
 
-nasm tmBundle .
+Support for most if not all of the NASM x86_64 syntax.
